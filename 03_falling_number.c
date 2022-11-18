@@ -13,15 +13,3 @@ int main()
     return 0;
 }
 
-
-/* #include <iostream>
-using namespace std;
-int main(){
-for(int a =1;a<=1000;a++){
-if(a%5==0){
-cout<<a<<"\";
-}
-else{cout<<a<<"\";}
-}
-return 0;
-} */
