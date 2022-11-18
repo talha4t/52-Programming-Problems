@@ -14,7 +14,6 @@ int main()
         n = n / 10;
         sum = last_number + first_number;
        
-
         printf("Sum = %d\n", sum);
     }
 
